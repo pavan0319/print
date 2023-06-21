@@ -1,0 +1,252 @@
+
+var dd = {
+    content: [
+        {
+            table: {
+                widths: [
+                    25,
+                    155,
+                    55,
+                    55,
+                    55,
+                    55,
+                    55
+                ],
+                headerRows: 2,
+                    
+                body: [
+                    [
+                        {
+                            "text": "gold's. Eatimate ",
+                            "colSpan": 7,
+                            "fillColor": '#cccccc',
+                            "alignment": "center",	
+                            "bold": true,
+                            "fontSize": 18,
+                            "color": 'black'
+                            
+                        },
+                        {
+               
+                        },
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    [
+                        {
+                            "text": "name",
+                            "colSpan": 4,
+                             "bold": true,
+                        },
+                        {},
+                        {},
+                        {},
+                        {
+                            "text": "date",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "dd/mm/yyyy",
+                            "colSpan": 2,
+                        },
+                        {}
+                    ],
+                    [
+                        {
+                            "text": "\nAddresh :",
+                            "colSpan": 4,
+                            "bold": true
+                        },
+                        {},
+                        {},
+                        {},
+                        {
+                            "text": "Invoice No.",
+                        },
+                        {
+                            "text": "S-JUN-114",
+                            "colSpan": 2,
+                        },
+                        {}
+                    ],
+                ]
+            }
+        },
+        {
+            table: {
+                widths: [
+                    25,
+                    155,
+                    55,
+                    55,
+                    55,
+                    55,
+                    55
+                ],
+                headerRows: 2,
+                    
+                body: 
+                [
+                    [
+                        {
+                            "text": "No",
+                            "fillColor": '#cccccc',
+                            "alignment": "center"
+                        },
+                        {
+                            "text": "Discription",
+                            "colSpan": 0,
+                            "fillColor": '#cccccc',
+                        },
+                        {
+                           "text": "Gross",
+                            "colSpan": 0,
+                            "fillColor": '#cccccc', 
+                        },
+                        {
+                            "text": "Less Wt",
+                            "fillColor": '#cccccc',
+                        },
+                        {
+                            "text": "Net Wt",
+                            "fillColor": '#cccccc',
+                        },
+                        {
+                            "text": "Fin .gold",
+                            "fillColor": '#cccccc',
+                        },
+                        {
+                            "text": "Amount",
+                            "fillColor": '#cccccc',
+                        }
+                    ],
+                    [
+                        {
+                            "text": "1",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "22k viyana (party name, and oder name)  (dispech pc)\n\nSmall Ad charge\n{stting method  + labour}\n\nfor parth",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "8.000 ",
+                            "colSpan": 0,
+                        },
+                        {
+                            
+                            "text": "0.120",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "7.880",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "7.824",
+                            "colSpan": 0,
+                        },
+                        {
+                           "text": "208",
+                           
+                            "colSpan": 0, 
+                        }
+                    ],
+                    [
+                        {
+                            "text": "2",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "92 SOLITAIRE  (dispech pc)\n\nSTONE (stone price + lober)\nfor rv ornament",
+                        },
+                        {
+                           "text": "56.910",  
+                        },
+                        {
+                             "text": "2.454",
+                        },
+                        {
+                            "text": "54.456",
+                        },
+                        {
+                            "text": "52.278",
+                            "colSpan": 0,
+                        },
+                        {
+                            "text": "975",
+                            "colSpan": 0,
+                        }
+                    ]
+               
+                ]
+            }
+        },
+        {
+           
+            table: {
+                widths: [
+                    25,
+                    155,
+                    55,
+                    55,
+                    55,
+                    55,
+                    55
+                ],
+                headerRows: 2,
+                    
+                body: 
+                [
+                    [
+                        {
+                            "text": "total",
+                            "colSpan": 4,
+                             "alignment": "center",
+                             "bold": true,
+                            "fontSize": 16,
+                            "color": 'black'
+                        },
+                        {},
+                        {},
+                        {},
+                        { "text": "",
+                           "fillColor": '#cccccc',
+                            "alignment": "center"
+                        },
+                        { "text": "",
+                           "fillColor": '#cccccc',
+                            "alignment": "center"
+                        },
+                        { "text": "",
+                           "fillColor": '#cccccc',
+                            "alignment": "center"
+                        }
+                      
+                    ],
+                   
+                
+                    [
+                       { "text": "\n\n\n(Autorrised Signature)___________________\n",
+                            "colSpan": 7,
+                           "bold": true,
+                            "fontSize": 15,
+                            "color": 'black'
+                       },
+                            
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                   
+                ]
+            }
+        },
+    ]
+}
