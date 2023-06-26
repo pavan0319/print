@@ -1,9 +1,8 @@
-
 var dd = {
-    content: [
+    "content": [
         {
-            table: {
-                widths: [
+            "table": {
+                "widths": [
                     25,
                     155,
                     55,
@@ -12,23 +11,19 @@ var dd = {
                     55,
                     55
                 ],
-                headerRows: 2,
-                    
-                body: [
+                "headerRows": 2,
+                "body": [
                     [
                         {
                             "text": "gold's. Eatimate ",
                             "colSpan": 7,
-                            "fillColor": '#cccccc',
-                            "alignment": "center",	
+                            "fillColor": "#cccccc",
+                            "alignment": "center",
                             "bold": true,
                             "fontSize": 18,
-                            "color": 'black'
-                            
+                            "color": "black"
                         },
-                        {
-               
-                        },
+                        {},
                         {},
                         {},
                         {},
@@ -39,7 +34,7 @@ var dd = {
                         {
                             "text": "name",
                             "colSpan": 4,
-                             "bold": true,
+                            "bold": true,
                         },
                         {},
                         {},
@@ -76,8 +71,8 @@ var dd = {
             }
         },
         {
-            table: {
-                widths: [
+            "table": {
+                "widths": [
                     25,
                     155,
                     55,
@@ -86,41 +81,39 @@ var dd = {
                     55,
                     55
                 ],
-                headerRows: 2,
-                    
-                body: 
-                [
+                "headerRows": 2,
+                "body": [
                     [
                         {
                             "text": "No",
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                             "alignment": "center"
                         },
                         {
                             "text": "Discription",
                             "colSpan": 0,
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                         },
                         {
-                           "text": "Gross",
+                            "text": "Gross",
                             "colSpan": 0,
-                            "fillColor": '#cccccc', 
+                            "fillColor": "#cccccc",
                         },
                         {
                             "text": "Less Wt",
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                         },
                         {
                             "text": "Net Wt",
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                         },
                         {
                             "text": "Fin .gold",
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                         },
                         {
                             "text": "Amount",
-                            "fillColor": '#cccccc',
+                            "fillColor": "#cccccc",
                         }
                     ],
                     [
@@ -137,7 +130,6 @@ var dd = {
                             "colSpan": 0,
                         },
                         {
-                            
                             "text": "0.120",
                             "colSpan": 0,
                         },
@@ -150,9 +142,8 @@ var dd = {
                             "colSpan": 0,
                         },
                         {
-                           "text": "208",
-                           
-                            "colSpan": 0, 
+                            "text": "208",
+                            "colSpan": 0,
                         }
                     ],
                     [
@@ -164,10 +155,10 @@ var dd = {
                             "text": "92 SOLITAIRE  (dispech pc)\n\nSTONE (stone price + lober)\nfor rv ornament",
                         },
                         {
-                           "text": "56.910",  
+                            "text": "56.910",
                         },
                         {
-                             "text": "2.454",
+                            "text": "2.454",
                         },
                         {
                             "text": "54.456",
@@ -181,14 +172,12 @@ var dd = {
                             "colSpan": 0,
                         }
                     ]
-               
                 ]
             }
         },
         {
-           
-            table: {
-                widths: [
+            "table": {
+                "widths": [
                     25,
                     155,
                     55,
@@ -197,46 +186,44 @@ var dd = {
                     55,
                     55
                 ],
-                headerRows: 2,
-                    
-                body: 
-                [
+                "headerRows": 2,
+                "body": [
                     [
                         {
                             "text": "total",
                             "colSpan": 4,
-                             "alignment": "center",
-                             "bold": true,
+                            "alignment": "center",
+                            "bold": true,
                             "fontSize": 16,
-                            "color": 'black'
+                            "color": "black"
                         },
                         {},
                         {},
                         {},
-                        { "text": "",
-                           "fillColor": '#cccccc',
+                        {
+                            "text": "",
+                            "fillColor": "#cccccc",
                             "alignment": "center"
                         },
-                        { "text": "",
-                           "fillColor": '#cccccc',
+                        {
+                            "text": "",
+                            "fillColor": "#cccccc",
                             "alignment": "center"
                         },
-                        { "text": "",
-                           "fillColor": '#cccccc',
+                        {
+                            "text": "",
+                            "fillColor": "#cccccc",
                             "alignment": "center"
                         }
-                      
                     ],
-                   
-                
                     [
-                       { "text": "\n\n\n(Autorrised Signature)___________________\n",
+                        {
+                            "text": "\n\n\n(Autorrised Signature)___________________\n",
                             "colSpan": 7,
-                           "bold": true,
+                            "bold": true,
                             "fontSize": 15,
-                            "color": 'black'
-                       },
-                            
+                            "color": "black"
+                        },
                         {},
                         {},
                         {},
@@ -244,9 +231,107 @@ var dd = {
                         {},
                         {}
                     ],
-                   
                 ]
             }
         },
+        {
+             "table": {
+                 "widths": [ 100,
+                             155,
+                             100,
+                             100,
+                                ],
+                                "body": [
+                                    [
+                                       {
+                                           
+			"image": 'sampleImage.jpg',
+			"width": 90,
+			"height": 90,
+		
+                                       },
+                                       {
+                                           "table":{
+                                                "widths":[43,43,43],
+                                               "body":[
+                                                   [
+                                                   {
+                                                       "text":"tag no"
+                                                   },
+                                                   {
+                                                        "text":""
+                                                   },
+                                                   {
+                                                        "text":""
+                                                   },
+                                                   ],
+                                                   [
+                                                   {
+                                                       "text":"Gross"
+                                                   },
+                                                   {
+                                                        "text":"Les wt"
+                                                   },
+                                                   {
+                                                        "text":"Net wt"
+                                                   },
+                                                   ],
+                                                   [
+                                                   {
+                                                       "text":"500.000"
+                                                   },
+                                                   {
+                                                        "text":"500.000"
+                                                   },
+                                                   {
+                                                        "text":"500.000"
+                                                   },
+                                                   ],
+                                                   [
+                                                   {
+                                                       "text":"Stone wt"
+                                                   },
+                                                   {
+                                                        "text":"other wt"
+                                                   },
+                                                   {
+                                                        "text":"pavan"
+                                                   },
+                                                   ],
+                                                   [
+                                                   {
+                                                       "text":"Stone wt"
+                                                   },
+                                                   {
+                                                        "text":"other wt"
+                                                   },
+                                                   {
+                                                        "text":"pavan"
+                                                   },
+                                                   ],
+                                                   [
+                                                   {
+                                                       "text":"pavan"
+                                                   },
+                                                   {
+                                                        "text":"pavan"
+                                                   },
+                                                   {
+                                                        "text":"pavan"
+                                                   },
+                                                   ],
+                                                   
+                                                   ]
+                                           },
+                                            "fontSize": 10,
+                                            "margin": [-1, 0, 40, 0],
+                                           "layout": "lightHorizontalLines"
+                                       }
+                                    ],
+                                   
+                                ]
+                            },
+              
+        }
     ]
 }
